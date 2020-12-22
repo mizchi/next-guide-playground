@@ -11,6 +11,21 @@
   "devDependencies": {
     "@types/node": "^14.14.14",
     "@types/react": "^17.0.0",
+    "@types/react-dom": "^17.0.0",
     "typescript": "^4.1.3"
-  }
+  },
+  "description": "## How to develop",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mizchi/next-guide-playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/mizchi/next-guide-playground/issues"
+  },
+  "homepage": "https://github.com/mizchi/next-guide-playground#readme"
 }
